@@ -11,3 +11,5 @@ Voici le fichier README.txt, crée pour Partie 2 Activité
 - ajout de deux fichiers .swift via le finder
 
 - Creation d'un repository sur GitHub
+
+- deux modifications sur chaque fichiers, commitées
