@@ -43,6 +43,9 @@ print("j'essaie d'obtenir la somme des notes de la classe \(sommeDesNotes) et de
 moyenne =  sommeDesNotes/nombreElementsDansTableau
 print("Voici la moyenne des notes de la classe: \(moyenne)")
 
+// Ajout d'un print pour l'exercice sur Github
+print ("Ajout d'un print pour l'exercice sur Github")
+
 
 j'essaie d'obtenir la somme des notes de la classe 181.0 et de la diviser par 13.0
 Voici la moyenne des notes de la classe: 13.9230769230769
