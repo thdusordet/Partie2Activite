@@ -43,6 +43,8 @@ for _ in 1...unChiffre {
 
 moyenne =  notesDeLaClasse/nombreElementsDansTableau
 
+print ("ajoute d'un print pour l'exercice sur GitHub")
+
 
 
 
