@@ -43,46 +43,7 @@ print("j'essaie d'obtenir la somme des notes de la classe \(sommeDesNotes) et de
 moyenne =  sommeDesNotes/nombreElementsDansTableau
 print("Voici la moyenne des notes de la classe: \(moyenne)")
 
-Voici le nombre d'éléments compris dans le tablau 13
-Voici la valeur de l'index: 0
-Voici la valeur de l'index après incérmentation: 1
-Voici la sommeDesNotes: 18.0
-Voici la valeur de l'index: 1
-Voici la valeur de l'index après incérmentation: 2
-Voici la sommeDesNotes: 22.0
-Voici la valeur de l'index: 2
-Voici la valeur de l'index après incérmentation: 3
-Voici la sommeDesNotes: 36.0
-Voici la valeur de l'index: 3
-Voici la valeur de l'index après incérmentation: 4
-Voici la sommeDesNotes: 51.0
-Voici la valeur de l'index: 4
-Voici la valeur de l'index après incérmentation: 5
-Voici la sommeDesNotes: 68.0
-Voici la valeur de l'index: 5
-Voici la valeur de l'index après incérmentation: 6
-Voici la sommeDesNotes: 83.0
-Voici la valeur de l'index: 6
-Voici la valeur de l'index après incérmentation: 7
-Voici la sommeDesNotes: 92.0
-Voici la valeur de l'index: 7
-Voici la valeur de l'index après incérmentation: 8
-Voici la sommeDesNotes: 112.0
-Voici la valeur de l'index: 8
-Voici la valeur de l'index après incérmentation: 9
-Voici la sommeDesNotes: 131.0
-Voici la valeur de l'index: 9
-Voici la valeur de l'index après incérmentation: 10
-Voici la sommeDesNotes: 142.0
-Voici la valeur de l'index: 10
-Voici la valeur de l'index après incérmentation: 11
-Voici la sommeDesNotes: 154.0
-Voici la valeur de l'index: 11
-Voici la valeur de l'index après incérmentation: 12
-Voici la sommeDesNotes: 168.0
-Voici la valeur de l'index: 12
-Voici la valeur de l'index après incérmentation: 13
-Voici la sommeDesNotes: 181.0
+
 j'essaie d'obtenir la somme des notes de la classe 181.0 et de la diviser par 13.0
 Voici la moyenne des notes de la classe: 13.9230769230769
 
